@@ -12,7 +12,7 @@
 
 ### Quick access to the whole series:
 
-1. [Part I: Introduction](equity-market-crisis-regime-prediction-using-gbdt1)
+1. [Part I: Introduction](/equity-market-crisis-regime-prediction-using-gbdt1)
 1. [Part II: Data Preparation](equity-market-crisis-regime-prediction-using-gbdt2)
 1. [Part III: Exploratory data analysis](equity-market-crisis-regime-prediction-using-gbdt3)
 1. [Part IV: Feature Selection, Hyperparameter Tuning (LightGBM)](equity-market-crisis-regime-prediction-using-gbdt4)
