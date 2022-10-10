@@ -12,13 +12,13 @@
 
 ### Quick access to the whole series:
 
-1. [Part I: Introduction](https://github.com/xxxxyyyy80008/financial-machine-learning/blob/main/crisis_prediction/equity-market-crisis-regime-prediction-using-gbdt1.ipynb)
+1. [Part I: Introduction](equity-market-crisis-regime-prediction-using-gbdt1.ipynb)
 1. [Part II: Data Preparation](equity-market-crisis-regime-prediction-using-gbdt2.ipynb)
-1. [Part III: Exploratory data analysis](equity-market-crisis-regime-prediction-using-gbdt3)
-1. [Part IV: Feature Selection, Hyperparameter Tuning (LightGBM)](equity-market-crisis-regime-prediction-using-gbdt4)
-1. [Part V: Model Evaluation and Interpretation (LightGBM)](equity-market-crisis-regime-prediction-using-gbdt5)
-1. [Part VI: SVM and Neural Networks (MLP and 1D-CNN)](equity-market-crisis-regime-prediction-using-gbdt6)
-1. [Part VII: Compare GBDT Models: XGBoost and LightGBM](equity-market-crisis-regime-prediction-using-gbdt7)
-1. [Part VIII: Deployment: end-to-end process (LightGBM)](equity-market-crisis-regime-prediction-using-gbdt8)
+1. [Part III: Exploratory data analysis](equity-market-crisis-regime-prediction-using-gbdt3.ipynb)
+1. [Part IV: Feature Selection, Hyperparameter Tuning (LightGBM)](equity-market-crisis-regime-prediction-using-gbdt4.ipynb)
+1. [Part V: Model Evaluation and Interpretation (LightGBM)](equity-market-crisis-regime-prediction-using-gbdt5.ipynb)
+1. [Part VI: SVM and Neural Networks (MLP and 1D-CNN)](equity-market-crisis-regime-prediction-using-gbdt6.ipynb)
+1. [Part VII: Compare GBDT Models: XGBoost and LightGBM](equity-market-crisis-regime-prediction-using-gbdt7.ipynb)
+1. [Part VIII: Deployment: end-to-end process (LightGBM)](equity-market-crisis-regime-prediction-using-gbdt8.ipynb)
 
 ---
